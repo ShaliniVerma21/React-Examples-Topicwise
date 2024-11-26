@@ -1,0 +1,18 @@
+.card {
+  background-color: #f47070;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  display: inline-block;
+  margin: 20px; /* added margin to create some space between cards */
+}
+
+.card-content {
+  padding: 20px;
+}
+
+.card h2 {
+  margin-top: 0; /* added to remove default margin from h2 element */
+}

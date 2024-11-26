@@ -1,0 +1,10 @@
+.user{
+    width: fit-content;
+    height: fit-content;
+    background-color: rgb(205, 162, 246);
+    border: 5px double black;
+    border-radius: 10% 10%;
+    margin: 20px;
+    padding: 20px;
+    display: inline-block;
+}
